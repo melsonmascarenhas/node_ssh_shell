@@ -1,0 +1,19 @@
+{
+  "name": "node_ssh_shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ssh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melsonmascarenhas/node_ssh_shell.git"
+  },
+  "author": "melsonmascarenhas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melsonmascarenhas/node_ssh_shell/issues"
+  },
+  "homepage": "https://github.com/melsonmascarenhas/node_ssh_shell#readme"
+}
