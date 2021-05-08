@@ -3,7 +3,7 @@ run this ```node shell.js```
 Here i used free ssh server for testing purpose. Change it with your desirable credentials.
 
 ```plaintext
-host: 'test.rebex.net',
+    host: 'test.rebex.net',
 
     port: 22,
 
@@ -11,4 +11,5 @@ host: 'test.rebex.net',
 
     password: 'password',
 
-    readyTimeout: 5000 ```
+    readyTimeout: 5000 
+    ```
