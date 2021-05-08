@@ -1,6 +1,6 @@
 # node_ssh_shell
 run this ```node shell.js```
-Here i used free ssh server for testing purpose.if you want change it with your desirable credentials.
+Here i used free ssh server for testing purpose. Change it with your desirable credentials.
 
 ```host: 'test.rebex.net',
 
