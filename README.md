@@ -2,7 +2,8 @@
 run this ```node shell.js```
 Here i used free ssh server for testing purpose. Change it with your desirable credentials.
 
-```host: 'test.rebex.net',
+```plaintext
+host: 'test.rebex.net',
 
     port: 22,
 
